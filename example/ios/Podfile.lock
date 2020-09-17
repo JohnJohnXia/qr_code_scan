@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Masonry (1.1.0)
+  - qr_code_scan (0.0.1):
+    - Flutter
+    - Masonry
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - qr_code_scan (from `.symlinks/plugins/qr_code_scan/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  qr_code_scan:
+    :path: ".symlinks/plugins/qr_code_scan/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  qr_code_scan: b9ad56fa3798845e978ca07930b73da90ec41dbd
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.9.1
