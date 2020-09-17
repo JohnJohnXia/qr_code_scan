@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9db15ed-4569-4c47-8a35-3f66f395d6b3" name="Default Changelist" comment="" />
+    <list default="true" id="c9db15ed-4569-4c47-8a35-3f66f395d6b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Dart File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hXDTXpZNO3HXrrc0MccMcyqiv5" />
   <component name="ProjectViewState">
@@ -64,5 +69,9 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="328" y="184" key="IDE.errors.dialog/0.23.1440.822@0.23.1440.822" timestamp="1600241950785" />
+    <state x="431" y="248" width="693" height="488" key="find.popup" timestamp="1600331411862">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="431" y="248" width="693" height="488" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1600331411862" />
   </component>
 </project>
